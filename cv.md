@@ -8,7 +8,7 @@ So, I am very interested in learning Web Development. Now I am learning Front-en
 -Node.js
 -GIT
 -C++
-
+-Python
 ```
 function JS(){
     console.log("I love JavaScript");
