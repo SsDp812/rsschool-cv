@@ -5,9 +5,9 @@
 So, I am very interested in learning Web Development. Now I am learning Front-end development, but then, when I will have enough experience I will learn Back-end.
 ###My skills:
 -JS/HTML/CSS
-Node.js
+-Node.js
 -GIT
-C++
+-C++
 
 ```
 function JS(){
