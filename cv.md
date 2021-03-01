@@ -11,7 +11,7 @@ So, I am very interested in learning Web Development. Now I am learning Front-en
 
 ```
 function JS(){
-    console.log("I really love JavaScript");
+    console.log("I love JavaScript");
 }
 ```
 ### Expirience:
